@@ -1,5 +1,5 @@
 # Sowmith Kola
-![]kola_pic.png
+![](kola_pic.png)
 - <sowmithkola8899@gmail.com>
 - (667) 910 3476
 - [https://www.linkedin.com/in/sowmith-kola/](https://www.linkedin.com/in/sowmith-kola/)
