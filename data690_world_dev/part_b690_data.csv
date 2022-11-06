@@ -1,0 +1,343 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,13.0909996033,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+1,2017,12.033200264,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+2,2018,11.6960601807,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+3,2019,11.3437700272,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+4,2020,10.2538604736,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+5,2021,10.880109787,SE.XPD.TOTL.GB.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+6,2016,13.8043899536,SE.XPD.TOTL.GB.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2017,13.6023597717,SE.XPD.TOTL.GB.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2018,13.4772901535,SE.XPD.TOTL.GB.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2016,11.4192800522,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+10,2017,16.0549793243,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+11,2018,11.6814804077,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+12,2019,9.2737503052,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+13,2020,11.8447504044,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+14,2021,11.690870285,SE.XPD.TOTL.GB.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+15,2016,11.8854780197,SE.XPD.TOTL.GB.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2017,11.5886888504,SE.XPD.TOTL.GB.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2018,10.7586174011,SE.XPD.TOTL.GB.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2019,11.2299995422,SE.XPD.TOTL.GB.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2020,10.529999733,SE.XPD.TOTL.GB.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2016,10.9105396271,SE.XPD.TOTL.GB.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+21,2017,11.0284500122,SE.XPD.TOTL.GB.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+22,2018,11.2255802155,SE.XPD.TOTL.GB.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+23,2016,15.7215003967,SE.XPD.TOTL.GB.ZS,IND,India,South Asia,Lower middle income,IBRD
+24,2017,15.8097696304,SE.XPD.TOTL.GB.ZS,IND,India,South Asia,Lower middle income,IBRD
+25,2018,16.6353797913,SE.XPD.TOTL.GB.ZS,IND,India,South Asia,Lower middle income,IBRD
+26,2019,16.7286491394,SE.XPD.TOTL.GB.ZS,IND,India,South Asia,Lower middle income,IBRD
+27,2020,16.5401592255,SE.XPD.TOTL.GB.ZS,IND,India,South Asia,Lower middle income,IBRD
+28,2016,20.9357204437,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+29,2017,21.315820694,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+30,2018,19.6432590485,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+31,2019,17.6856002808,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+32,2020,15.4426202774,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+33,2021,16.3746204376,SE.XPD.TOTL.GB.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+34,2016,19.1284999847,SE.XPD.TOTL.GB.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+35,2017,17.0963897705,SE.XPD.TOTL.GB.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+36,2018,14.1018695831,SE.XPD.TOTL.GB.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+37,2019,15.760000228900001,SE.XPD.TOTL.GB.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+38,2020,13.1899995804,SE.XPD.TOTL.GB.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+39,2016,15.0634803772,SE.XPD.TOTL.GB.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+40,2017,14.5447797775,SE.XPD.TOTL.GB.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+41,2019,11.5916795731,SE.XPD.TOTL.GB.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+42,2016,13.1542100906,SE.XPD.TOTL.GB.ZS,USA,United States,North America,High income,Not classified
+43,2017,13.8646697998,SE.XPD.TOTL.GB.ZS,USA,United States,North America,High income,Not classified
+44,2018,13.1461801529,SE.XPD.TOTL.GB.ZS,USA,United States,North America,High income,Not classified
+45,2016,14.5719995499,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+46,2017,15.4390001297,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+47,2018,15.765999794,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+48,2019,16.0590000153,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+49,2020,12.6400003433,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+50,2021,10.6470003128,SL.EMP.1524.SP.FE.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+51,2016,58.7989997864,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+52,2017,58.733001709,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+53,2018,60.3170013428,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+54,2019,60.763999939,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+55,2020,57.7299995422,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+56,2021,62.7319984436,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+57,2016,19.9720001221,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+58,2017,21.8449993134,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+59,2018,21.8649997711,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+60,2019,21.783000946,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+61,2020,19.3199996948,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+62,2021,20.0550003052,SL.EMP.1524.SP.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+63,2016,43.6329994202,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+64,2017,42.611000061,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+65,2018,41.686000824,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+66,2019,40.5099983215,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+67,2020,38.0079994202,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+68,2021,38.9760017395,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+69,2016,44.5089988708,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+70,2017,45.5390014648,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+71,2018,45.4099998474,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+72,2019,46.1259994507,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+73,2020,46.9210014343,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+74,2021,49.5760002136,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+75,2016,8.7969999313,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+76,2017,8.1730003357,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+77,2018,7.5710000992,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+78,2019,7.6149997711,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+79,2020,6.3270001411,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+80,2021,6.2230000496,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+81,2016,30.4619998932,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+82,2017,30.5079994202,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+83,2018,30.7159996033,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+84,2019,32.4700012207,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+85,2020,29.8509998322,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+86,2021,30.5550003052,SL.EMP.1524.SP.FE.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+87,2016,73.8740005493,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+88,2017,73.9909973145,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+89,2018,74.1790008545,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+90,2019,74.1790008545,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+91,2020,64.1360015869,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+92,2021,67.2409973145,SL.EMP.1524.SP.FE.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+93,2016,17.7730007172,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+94,2017,17.2579994202,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+95,2018,16.7439994812,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+96,2019,16.6060009003,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+97,2020,15.236000061,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+98,2021,15.8680000305,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+99,2016,44.3650016785,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+100,2017,45.3639984131,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+101,2018,45.78099823,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+102,2019,46.4790000916,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+103,2020,41.2249984741,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+104,2021,45.3740005493,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+105,2016,0.6456699967,SE.ENR.PRSC.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+106,2017,0.6416900158000001,SE.ENR.PRSC.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+107,2018,0.6360200047,SE.ENR.PRSC.FM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+108,2016,0.9251700044000001,SE.ENR.PRSC.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+109,2017,0.9375399947,SE.ENR.PRSC.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+110,2018,0.9688500166,SE.ENR.PRSC.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+111,2019,0.9640700221,SE.ENR.PRSC.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+112,2020,0.9792900085,SE.ENR.PRSC.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+113,2017,1.1166399717,SE.ENR.PRSC.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+114,2018,1.1159100533,SE.ENR.PRSC.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+115,2020,1.1458799839,SE.ENR.PRSC.FM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+116,2016,1.0101399422,SE.ENR.PRSC.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+117,2017,1.0132199526,SE.ENR.PRSC.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+118,2018,1.0143100023,SE.ENR.PRSC.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+119,2019,1.0152900219,SE.ENR.PRSC.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+120,2020,1.0128699541,SE.ENR.PRSC.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+121,2016,0.9637299776,SE.ENR.PRSC.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+122,2017,0.9576500058,SE.ENR.PRSC.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+123,2018,0.9609900117,SE.ENR.PRSC.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+124,2019,0.9653699994,SE.ENR.PRSC.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+125,2016,1.0951900482,SE.ENR.PRSC.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+126,2017,1.0840200186,SE.ENR.PRSC.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+127,2019,1.0201699734,SE.ENR.PRSC.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+128,2020,1.0073800087,SE.ENR.PRSC.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+129,2016,1.0388200283,SE.ENR.PRSC.FM.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+130,2017,1.0345400572,SE.ENR.PRSC.FM.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+131,2018,1.0465199947,SE.ENR.PRSC.FM.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+132,2019,1.0403800011,SE.ENR.PRSC.FM.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+133,2020,1.0395100117,SE.ENR.PRSC.FM.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+134,2016,1.056910038,SE.ENR.PRSC.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+135,2017,1.0467799902,SE.ENR.PRSC.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+136,2019,1.0464899540000001,SE.ENR.PRSC.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+137,2020,1.0122699738,SE.ENR.PRSC.FM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+138,2016,0.8395100236,SE.ENR.PRSC.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+139,2017,0.845960021,SE.ENR.PRSC.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+140,2018,0.8488900065,SE.ENR.PRSC.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+141,2019,0.8774799705,SE.ENR.PRSC.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+142,2016,0.9962599874,SE.ENR.PRSC.FM.ZS,USA,United States,North America,High income,Not classified
+143,2017,0.993629992,SE.ENR.PRSC.FM.ZS,USA,United States,North America,High income,Not classified
+144,2018,0.9947000146,SE.ENR.PRSC.FM.ZS,USA,United States,North America,High income,Not classified
+145,2019,0.9949100018,SE.ENR.PRSC.FM.ZS,USA,United States,North America,High income,Not classified
+146,2016,53.2079642016,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+147,2017,53.7632225247,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+148,2018,54.3248975483,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+149,2019,54.9119343971,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+150,2020,55.5283288943,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+151,2021,56.1122928063,SP.POP.1564.TO.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+152,2016,65.9065730162,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+153,2017,65.5309417026,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+154,2018,65.1529077339,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+155,2019,64.8033515429,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+156,2020,64.4945169162,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+157,2021,64.1742594437,SP.POP.1564.TO.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+158,2016,66.1113230721,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+159,2017,66.6259370047,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+160,2018,67.1355868779,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+161,2019,67.605283267,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+162,2020,68.0184550816,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+163,2021,68.3580955104,SP.POP.1564.TO.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+164,2016,72.2027527737,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+165,2017,71.7175184402,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+166,2018,71.2021137124,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+167,2019,70.7232986329,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+168,2020,70.3199134119,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+169,2021,69.9914047559,SP.POP.1564.TO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+170,2016,65.3959908493,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+171,2017,65.1778235896,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+172,2018,64.9170079001,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+173,2019,64.6375192034,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+174,2020,64.3569551788,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+175,2021,63.984344879700004,SP.POP.1564.TO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+176,2016,66.2742624653,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+177,2017,66.5381871099,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+178,2018,66.7667424975,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+179,2019,67.0038111932,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+180,2020,67.2654998846,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+181,2021,67.445187764,SP.POP.1564.TO.ZS,IND,India,South Asia,Lower middle income,IBRD
+182,2016,69.0806192568,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+183,2017,69.2222570223,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+184,2018,69.3331042885,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+185,2019,69.3842495364,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+186,2020,69.3681971627,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+187,2021,69.2877946719,SP.POP.1564.TO.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+188,2016,62.0769438684,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+189,2017,62.9988020344,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+190,2018,63.8580639026,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+191,2019,64.647056788,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+192,2020,65.3621391883,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+193,2021,66.0211923065,SP.POP.1564.TO.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+194,2016,59.986273823,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+195,2017,60.2075429118,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+196,2018,60.4174110891,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+197,2019,60.6232143782,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+198,2020,60.8317866523,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+199,2021,60.9706933444,SP.POP.1564.TO.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+200,2016,65.942978768,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+201,2017,65.7221060221,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+202,2018,65.4833059619,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+203,2019,65.2410767326,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+204,2020,64.9973268643,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+205,2021,64.7186220974,SP.POP.1564.TO.ZS,USA,United States,North America,High income,Not classified
+206,2016,49.2550010681,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+207,2017,48.611000061,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+208,2018,48.4430007935,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+209,2019,48.1990013123,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+210,2020,43.65599823,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+211,2021,42.3349990845,SL.EMP.1524.SP.MA.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+212,2016,57.9029998779,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+213,2017,58.158000946,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+214,2018,59.297000885,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+215,2019,59.3849983215,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+216,2020,55.7999992371,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+217,2021,59.15599823,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+218,2016,47.3979988098,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+219,2017,49.0369987488,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+220,2018,48.8429985046,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+221,2019,48.6030006409,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+222,2020,45.0110015869,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+223,2021,46.5979995728,SL.EMP.1524.SP.MA.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+224,2016,49.0340003967,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+225,2017,48.4210014343,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+226,2018,47.9350013733,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+227,2019,47.016998291,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+228,2020,44.7220001221,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+229,2021,45.7789993286,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+230,2016,46.9469985962,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+231,2017,47.3930015564,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+232,2018,48.8310012817,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+233,2019,50.6699981689,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+234,2020,49.3209991455,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+235,2021,53.2480010986,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+236,2016,33.9239997864,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+237,2017,32.8289985657,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+238,2018,31.6930007935,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+239,2019,31.9400005341,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+240,2020,27.3589992523,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+241,2021,26.579000473,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+242,2016,43.4459991455,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+243,2017,43.2509994507,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+244,2018,44.6240005493,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+245,2019,46.733001709,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+246,2020,43.6549987793,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+247,2021,44.9039993286,SL.EMP.1524.SP.MA.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+248,2016,68.1640014648,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+249,2017,67.4950027466,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+250,2018,67.2770004272,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+251,2019,67.0810012817,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+252,2020,59.4010009766,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+253,2021,60.6199989319,SL.EMP.1524.SP.MA.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+254,2016,55.0900001526,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+255,2017,55.0789985657,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+256,2018,55.061000824,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+257,2019,55.0110015869,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+258,2020,51.3199996948,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+259,2021,53.3269996643,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+260,2016,45.5489997864,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+261,2017,46.216999054,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+262,2018,46.0099983215,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+263,2019,46.658000946,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+264,2020,42.2299995422,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+265,2021,45.9249992371,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+266,2016,11.1579999924,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+267,2017,11.1800003052,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+268,2018,11.1520004272,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+269,2019,11.2170000076,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+270,2020,11.7100000381,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+271,2021,13.2829999924,SL.UEM.TOTL.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+272,2016,5.7100000381000005,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+273,2017,5.5900001526,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+274,2018,5.3000001907,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+275,2019,5.1599998474,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+276,2020,6.4600000381000005,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+277,2021,5.1119999886,SL.UEM.TOTL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+278,2016,4.3499999046,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+279,2017,4.3699998856,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+280,2018,4.4130001068,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+281,2019,4.4380002022,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+282,2020,5.4130001068,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+283,2021,5.2290000916,SL.UEM.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+284,2016,4.5300002098,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+285,2017,4.4400000572,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+286,2018,4.2800002098,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+287,2019,4.5199999809,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+288,2020,5.0,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+289,2021,4.8169999123,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+290,2016,4.1199998856,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+291,2017,3.75,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+292,2018,3.3800001144,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+293,2019,3.1400001049,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+294,2020,3.8099999428,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+295,2021,3.5350000858,SL.UEM.TOTL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+296,2016,5.4229998589,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+297,2017,5.3579998016,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+298,2018,5.3299999237,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+299,2019,5.2699999809,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+300,2020,7.9970002174,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+301,2021,5.978000164,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+302,2016,3.4400000572,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+303,2017,3.4100000858,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+304,2018,3.2999999523,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+305,2019,3.2599999905,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+306,2020,4.5040001869,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+307,2021,4.609000206,SL.UEM.TOTL.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+308,2016,2.8680000305,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+309,2017,3.3180000782,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+310,2018,3.1930000782,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+311,2019,3.0969998837,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+312,2020,4.7239999771,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+313,2021,5.0520000458,SL.UEM.TOTL.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+314,2016,3.7790000439,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+315,2017,3.9159998894,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+316,2018,4.0799999237,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+317,2019,3.5420000553,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+318,2020,4.3029999733,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+319,2021,4.3520002365,SL.UEM.TOTL.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+320,2016,4.8699998856,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+321,2017,4.3600001335,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+322,2018,3.9000000954000003,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+323,2019,3.6700000763,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+324,2020,8.0500001907,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+325,2021,5.4640002251,SL.UEM.TOTL.ZS,USA,United States,North America,High income,Not classified
+326,2021,55.9294013977,SE.ADT.1524.LT.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+327,2016,92.2426528931,SE.ADT.1524.LT.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+328,2017,92.9507598877,SE.ADT.1524.LT.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+329,2018,93.2964401245,SE.ADT.1524.LT.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+330,2019,94.8624267578,SE.ADT.1524.LT.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+331,2020,94.4617767334,SE.ADT.1524.LT.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+332,2018,99.7835998535,SE.ADT.1524.LT.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+333,2018,91.6640396118,SE.ADT.1524.LT.ZS,IND,India,South Asia,Lower middle income,IBRD
+334,2016,97.6144714355,SE.ADT.1524.LT.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+335,2017,97.2725601196,SE.ADT.1524.LT.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+336,2018,96.8503265381,SE.ADT.1524.LT.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+337,2019,96.7783966064,SE.ADT.1524.LT.ZS,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+338,2018,92.3938064575,SE.ADT.1524.LT.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+339,2017,74.5263824463,SE.ADT.1524.LT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+340,2018,71.9948425293,SE.ADT.1524.LT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+341,2019,72.7035598755,SE.ADT.1524.LT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
